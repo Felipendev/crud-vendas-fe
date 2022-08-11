@@ -1,10 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import { VendasComponent } from './vendas/vendas.component';
-
 const routes: Routes = [
-  { path: '', component: VendasComponent }
+ // { path: '', component:  }
 ];
 
 @NgModule({
